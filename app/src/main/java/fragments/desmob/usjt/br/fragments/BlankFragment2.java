@@ -24,10 +24,10 @@ public class BlankFragment2 extends Fragment {
     }
 
 
-    /**
-     * Created by viniciu126 on 12/05/18.
-     * RA: 816117960
-     */
+ /**
+ * Created by Matheus on 12/05/18.
+ * RA: 816117912
+ */
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
