@@ -1,4 +1,4 @@
-package br.com.bossini.viewpagercomfragmentsads3anmca;
+package fragments.desmob.usjt.br.fragments 
 
 
 import android.os.Bundle;
@@ -13,8 +13,8 @@ import android.view.ViewGroup;
  */
 
 /**
- * Created by viniciu126 on 12/05/18.
- * RA: 816117960
+ * Created by Matheus on 12/05/18.
+ * RA: 816117912
  */
 public class BlankFragment2 extends Fragment {
 
