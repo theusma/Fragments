@@ -23,10 +23,10 @@ public class BlankFragment1 extends Fragment {
         // Required empty public constructor
     }
 
-    /**
-     * Created by viniciu126 on 12/05/18.
-     * RA: 816117960
-     */
+   /**
+ * Created by Matheus on 12/05/18.
+ * RA: 816117912
+ */
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
